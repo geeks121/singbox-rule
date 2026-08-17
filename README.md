@@ -1,0 +1,2 @@
+# singbox-rule
+simple singbox
