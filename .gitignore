@@ -1,0 +1,13 @@
+# Main configs - do not track
+config.json
+config-remote.json
+config.yaml
+convert.py
+fetch_game_rules.py
+README.txt
+rule_provider/
+
+# OS/IDE
+.DS_Store
+*.swp
+.vscode/

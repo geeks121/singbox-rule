@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "garena"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.co.id"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.co.th"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.sg"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.my"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.ph"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.vn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.tw"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.live"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.la"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.com.sg"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garenanow.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "beetalkmobile.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "seagroup.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "sea.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "avatargarenanow-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdngarenanow-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dlgarenanow-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dlmobilegarena-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena-ops.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "shop2game.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "freefire"
+      ]
+    },
+    {
+      "domain": [
+        "ff.garena.com"
+      ]
+    },
+    {
+      "domain": [
+        "garena.com"
+      ]
+    },
+    {
+      "domain": [
+        "garena.co.id"
+      ]
+    },
+    {
+      "domain": [
+        "garena.co.th"
+      ]
+    },
+    {
+      "domain": [
+        "garena.live"
+      ]
+    },
+    {
+      "domain": [
+        "garena.my"
+      ]
+    },
+    {
+      "domain": [
+        "garena.ph"
+      ]
+    },
+    {
+      "domain": [
+        "garena.sg"
+      ]
+    },
+    {
+      "domain": [
+        "garena.tv"
+      ]
+    },
+    {
+      "domain": [
+        "garena.tw"
+      ]
+    },
+    {
+      "domain": [
+        "garena.vn"
+      ]
+    },
+    {
+      "domain": [
+        "garenanow.com"
+      ]
+    },
+    {
+      "domain": [
+        "seagroup.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamaihd.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "freefiremobile.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "appsflyer.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "freefiremobile.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "fbsbx.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "garena.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "youme.im"
+      ]
+    },
+    {
+      "port": [
+        7006
+      ]
+    },
+    {
+      "port": [
+        7008
+      ]
+    },
+    {
+      "port": [
+        10000
+      ]
+    },
+    {
+      "port": [
+        10001
+      ]
+    },
+    {
+      "port": [
+        10002
+      ]
+    },
+    {
+      "port": [
+        10003
+      ]
+    },
+    {
+      "port": [
+        10004
+      ]
+    },
+    {
+      "port": [
+        10005
+      ]
+    },
+    {
+      "port": [
+        10006
+      ]
+    },
+    {
+      "port": [
+        10007
+      ]
+    },
+    {
+      "port": [
+        10008
+      ]
+    },
+    {
+      "port": [
+        10009
+      ]
+    },
+    {
+      "port": [
+        14000
+      ]
+    },
+    {
+      "port": [
+        17000
+      ]
+    },
+    {
+      "port": [
+        20561
+      ]
+    },
+    {
+      "port": [
+        39698
+      ]
+    },
+    {
+      "port": [
+        39779
+      ]
+    },
+    {
+      "port": [
+        39003
+      ]
+    },
+    {
+      "port": [
+        40000
+      ]
+    }
+  ]
+}

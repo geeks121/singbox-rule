@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "mobilelegends"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "moonton"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mobilelegends.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "moonton.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "moonton.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "youngjoygame.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "byteoversea.com"
+      ]
+    },
+    {
+      "domain": [
+        "ml.aihelp.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mobilelegends.aihelp.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "13.250.187.31/32"
+      ]
+    },
+    {
+      "port": [
+        30190
+      ]
+    },
+    {
+      "port": [
+        30071
+      ]
+    },
+    {
+      "port": [
+        30220
+      ]
+    },
+    {
+      "port": [
+        30021
+      ]
+    },
+    {
+      "port": [
+        30101
+      ]
+    },
+    {
+      "port": [
+        5058
+      ]
+    },
+    {
+      "port": [
+        5000
+      ]
+    },
+    {
+      "port": [
+        5504
+      ]
+    },
+    {
+      "port": [
+        5554
+      ]
+    },
+    {
+      "port": [
+        5552
+      ]
+    },
+    {
+      "port": [
+        5057
+      ]
+    },
+    {
+      "port": [
+        5007
+      ]
+    }
+  ]
+}

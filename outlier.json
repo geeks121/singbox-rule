@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "outlier.ai"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "outlier"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "scale.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "scale"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "remotasks.com"
+      ]
+    }
+  ]
+}
